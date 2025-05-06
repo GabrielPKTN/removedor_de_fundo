@@ -1,0 +1,2 @@
+Coloque suas imagens aqui, e altere o nome em "caminho_entrada" 
+para o programa funcionar.
